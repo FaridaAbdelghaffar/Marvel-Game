@@ -6,6 +6,6 @@ The frontend is built using Java FX.
 
 Demo of the game can be viewed [here](https://www.youtube.com/watch?v=BMYvNs18TP4).
 
-![alt text](https://github.com/FaridaAbdelghaffar/Marvel-Game/public/intro.PNG)
-![alt text](https://github.com/FaridaAbdelghaffar/Marvel-Game/public/mrv2.PNG)
-![alt text](https://github.com/FaridaAbdelghaffar/Marvel-Game/public/Capture.PNG)
+![alt text](https://github.com/FaridaAbdelghaffar/Marvel-Game/tree/main/public/intro.PNG)
+![alt text](https://github.com/FaridaAbdelghaffar/Marvel-Game/tree/main/public/mrv2.PNG)
+![alt text](https://github.com/FaridaAbdelghaffar/Marvel-Game/tree/main/public/Capture.PNG)
