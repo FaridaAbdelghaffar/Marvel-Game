@@ -1,5 +1,5 @@
 # Marvel Ultimate War Game
-This game was our very first programming project to ever build (in 2022). 
+This game was our first programming project to ever build. 
 We used OOP concepts (abstraction, encapsulation, polymorphism, and inheritance) for the backend and the Model-View-Controller pattern for the whole code. 
 
 The frontend is built using Java FX.
